@@ -1,5 +1,7 @@
 # EmergentCiv
 
+**Live web build:** https://lnakai-osu.github.io/emergent-civ/ — auto-deployed by `.github/workflows/pages.yml` on every push to `main`.
+
 A civilization-strategy simulation where the core mechanics - economic growth, diplomacy, and war - are built from real economic and sociological models rather than hand-tuned numbers, and where AI factions make every decision themselves from live game state. No scripted events, no "if turn 20, attack": a faction's choice to expand, build, attack, declare war, or sue for peace is a utility-scored decision re-evaluated every turn against its neighbors' actual behavior.
 
 Play as one faction against an AI, or step back and spectate 2-100 AI civilizations playing each other out in real time.
